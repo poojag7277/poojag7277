@@ -1,10 +1,8 @@
 ## Hi there 👋
-- 🔭 I’m currently working on projects thorugh college.
-- 🌱 I’m currently learning express, mongo and react.
-- 👯 I’m looking to collaborate on not sure yet.
-- 🤔 I’m looking for help with node.js and react.
-- 💬 Ask me about my linkedin profile.
-- 📫 How to reach me: ..
+- 🔭 I’m currently working on some projects from a senior professional.
+- 🌱 I’m currently learning MERN.
+- 💬 My linkedin profile https://linkedin.com/in/gpooja7277
+- 📫 How to reach me: poojag7277@gmail.com
 
 ### Here are my projects
 - [Basic Express App with CRUD operations](https://github.com/poojag7277/expressApp1)
