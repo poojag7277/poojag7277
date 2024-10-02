@@ -1,6 +1,5 @@
 ## Hi there 👋
 - 👀 I am G Pooja.
-- 💬 My linkedin profile https://linkedin.com/in/gpooja7277
 - 📫 To reach me: pooja.g7277@gmail.com
 
 ### Here are my projects
