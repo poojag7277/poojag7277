@@ -9,6 +9,6 @@
 
 ## React Projects(mini)
 - [Mini Project : Word and Letter counter ](https://github.com/poojag7277/reactProject)
-- [Mini Project : Password Validator] ()
-- [Basic Project using API : Lyrics Finder] ()
-- [Basic Axios App] ()
+- [Mini Project : Password Validator]()
+- [Basic Project using API : Lyrics Finder]()
+- [Basic Axios App]()
