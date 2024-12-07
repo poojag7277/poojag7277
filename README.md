@@ -1,5 +1,4 @@
 ## Hi there 👋
-- 👀 I am G Pooja.
 - 📫 To reach me: pooja.g7277@gmail.com
 
 ### Here are my projects
