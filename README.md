@@ -1,6 +1,3 @@
-## Hi there 👋
-- 📫 To reach me: pooja.g7277@gmail.com
-
 ### Here are my projects
 ## Express Projects
 - [Basic App with CRUD operations](https://github.com/poojag7277/expressApp1)
